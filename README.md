@@ -23,7 +23,7 @@ This chatbot acts as a virtual banking assistant, allowing users to perform comm
 *CloudWatch: Used for monitoring and troubleshooting bot interactions.
 
 #Setup & Deployment
-*Clone the Repository: git clone [your-repo-link]
+*Clone the Repository: git clone [`git clone https://github.com/Vanyhe/lex-banking-chatbot.git`]
 
 *Configure AWS Lex: Create a new bot and import the provided intent schemas.
 
