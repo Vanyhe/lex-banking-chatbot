@@ -30,7 +30,8 @@ This chatbot acts as a virtual banking assistant, allowing users to perform comm
 *Deploy Lambda Function: Upload the Python code and set the appropriate environment variables.
 
 *Test: Use the built-in Lex "Test Chatbot" window to verify intent fulfillment.
-
+## 📺 Video Demo
+Watch a complete walkthrough and demonstration of the Lex Banking Chatbot in action on [Loom](https://www.loom.com/share/b3d3590673e24e7096d5b1b8fb337e39).
 #Challenges & Lessons Learned
 *Handling Slot Elicitation: I initially struggled with ensuring Lex correctly gathered all required information before triggering the Lambda. I solved this by refining the "Prompt" and "Validation" settings in the Lex console.
 
